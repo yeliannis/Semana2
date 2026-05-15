@@ -1,0 +1,10 @@
+Dominar la terminal (o CLI) es como pasar de ser un pasajero a ser el piloto del avión. Aunque las interfaces gráficas (ventanas y carpetas) son cómodas, la terminal es el lenguaje nativo del sistema operativo y de los servidores donde vivirá tu código.
+
+Aquí te explico por qué es una habilidad no negociable para un desarrollador:
+
+1. Velocidad y Eficiencia
+Moverte con el ratón por cinco subcarpetas para crear un archivo es lento. En la terminal, con un solo comando como mkdir -p src/components/auth && touch $_/Login.js, has creado la estructura y el archivo en segundos.
+
+Comandos potentes: Puedes buscar una palabra específica en 1,000 archivos instantáneamente con grep.
+
+Atajos: El uso de tabulación para autocompletar nombres de archivos largos elimina errores de dedo.
